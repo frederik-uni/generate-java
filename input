@@ -1,0 +1,11 @@
+TestClass:cse
+?!id: int,!?name:String,!?desc:ArrayList<String>
+#name(id: int):void,name(id: int, id2: int):int,-name2(id: int, id2: int):int
+
+TestClass2:cse
+?!id: int,!?name:String,!?desc:ArrayList<String>
+#name(id: int):void,name(id: int, id2: int):int,-name2(id: int, id2: int):int
+
+TestClass3:cse
+?!id: int,!?name:String,!?desc:ArrayList<String>
+#name(id: int):void,name(id: int, id2: int):int,-name2(id: int, id2: int):int
